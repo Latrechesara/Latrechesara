@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="1768456180058.jfif" alt="Banner" width="100%">
+  <img src= "IMG_0524.jpeg" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Latreche Sara</h1>
