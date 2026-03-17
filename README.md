@@ -15,7 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [---------](---------)
 
-- 📝 I regularly write articles on [---------](---------)
+I regularly write technical articles focusing on the intersection of **Theoretical Physics**, **Deep Learning**, and **Medical Imaging**. My posts emphasize "First Principles" learning—building complex systems from scratch.
+
+👉 **Read my latest posts:** [mern-blog-inac.vercel.app](https://mern-blog-inac.vercel.app/)
 
 - 💬 Ask me about **Python/deep learning/ML**
 
